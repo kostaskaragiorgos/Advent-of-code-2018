@@ -1,1 +1,7 @@
 # Adven-of-code-2018
+
+## DAY02
+
+## PART 1
+
+GOLANG USED TO SOLVE THE PROBLEM
